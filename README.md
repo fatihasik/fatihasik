@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">Hello! I am Fatih, a software engineer proficient in Java, React, TypeScript, and JavaScript. With experience working on large-scale projects, I can provide solutions to all your software development needs. My Skills: Developing backend systems with Java Creating modern and user-friendly web interfaces with React Making code more secure and robust with TypeScript Developing interactive and dynamic web applications with JavaScript Database design and management Software testing and debugging Agile and DevOps methodologies</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihasik&label=Profile%20views&color=0e75b6&style=flat" alt="fatihasik" /> </p>
+<h3 align="center">A GitHub Profile Writeup to Impress Hello! I am Fatih, a software engineer proficient in Java, React, TypeScript, and JavaScript. With experience working on large-scale projects, I can provide solutions to all your software development needs. My Skills: Developing backend systems with Java Creating modern and user-friendly web interfaces with React Making code more secure and robust with TypeScript Developing interactive and dynamic web applications with JavaScript Database design and management Software testing and debugging Agile and DevOps methodologies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihasik" alt="fatihasik" /></a> </p>
 
