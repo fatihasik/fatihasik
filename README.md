@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A GitHub Profile Writeup to Impress Hello! I am Fatih, a software engineer proficient in Java, React, TypeScript, and JavaScript. With experience working on large-scale projects, I can provide solutions to all your software development needs. My Skills: Developing backend systems with Java Creating modern and user-friendly web interfaces with React Making code more secure and robust with TypeScript Developing interactive and dynamic web applications with JavaScript Database design and management Software testing and debugging Agile and DevOps methodologies</h3>
+<h3 align="center"> Hello! I am Fatih, a software engineer proficient in Java, React, TypeScript, and JavaScript. With experience working on large-scale projects, I can provide solutions to all your software development needs. My Skills: Developing backend systems with Java Creating modern and user-friendly web interfaces with React Making code more secure and robust with TypeScript Developing interactive and dynamic web applications with JavaScript Database design and management Software testing and debugging Agile and DevOps methodologies</h3>
 
 - 📫 How to reach me **fth.asik@gmail.com**
 
